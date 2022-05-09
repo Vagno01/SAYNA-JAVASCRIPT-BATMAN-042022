@@ -1,0 +1,53 @@
+body{
+background-image: url(/Illustrations/Home/Bathome1.png);
+background-repeat: no-repeat;
+width: 100%;
+margin: 0px;
+padding: 0px;
+background-size: 100%;
+color: white;
+}
+header div nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display: inline-block;
+    padding: 3%;
+}
+li.flech{
+    margin-right: 5%;
+}
+li{
+    margin-left: 20%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a.maison{
+    text-decoration: underline;
+}
+button{
+    background-color:rgb(133, 34, 34);
+}
+div.bio{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+div.contact{
+    background-color: rgb(86, 86, 86);
+}
+div.cit{
+    background-color: black;
+}
+footer{
+    background-color: black;
+}
+
+
+
+
+
+
+
